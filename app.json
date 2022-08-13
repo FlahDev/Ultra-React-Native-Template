@@ -1,7 +1,7 @@
 {
 	"expo": {
-		"name": "Qualé?",
-		"slug": "qualE",
+		"name": "your-application-name-here",
+		"slug": "your-slug-name-here",
 		"version": "1.0.0",
 		"orientation": "portrait",
 		"privacy": "hidden",
